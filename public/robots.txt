@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hima-elektro.de/sitemap.xml
