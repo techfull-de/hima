@@ -47,3 +47,4 @@ footer>.uk-section{padding-top:35px;padding-bottom:45px}footer .uk-margin-large{
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation:none!important;transition:none!important}}
 /* Keep input contrast inside the inherited inverse tile theme. */
 .uk-tile-primary .contact-form .uk-input,.uk-tile-primary .contact-form .uk-textarea,.uk-tile-primary .contact-form .uk-input:focus,.uk-tile-primary .contact-form .uk-textarea:focus{background:#fff;color:#010080;border-color:#d7d7e5}
+.mobile-panel .uk-nav>li>a,.mobile-panel .uk-nav>li.uk-active>a,.mobile-panel .uk-nav>li>a:hover,.mobile-panel .uk-nav>li>a:focus{color:#fff}
